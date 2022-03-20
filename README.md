@@ -1,2 +1,10 @@
-# Depo-Takip-Programi
-Depolardaki ürünlerin özelliklerini, yerlerini ve giriş çıkışlarını kontrol etmeyi sağlayan bir program.
+# Inventory-Management-System
+It is a program that follows and manages the situation in the warehouses of the enterprises by considering amount of their products.
+## Requirements
+- Python 3.9+
+- SQL
+- Qt5
+- PyQt5
+```bash
+$ python inventory_manager.py
+```
