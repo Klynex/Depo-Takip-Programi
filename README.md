@@ -1,7 +1,7 @@
 # Inventory-Management-System
 It is a program that follows and manages the situation in the warehouses of the enterprises by considering amount of their products.
 
-![greedy (1)](https://user-images.githubusercontent.com/89977128/172118803-cc4fe1c3-41b2-40ff-994d-3661cb37cb4c.gif)
+![Hnet-image](https://user-images.githubusercontent.com/89977128/159164829-88a19d03-3faf-4d6e-84ad-1376546278e7.gif)
 
 
 ## Requirements
